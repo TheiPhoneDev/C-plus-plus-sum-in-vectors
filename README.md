@@ -1,2 +1,2 @@
 # C-plus-plus-sum-in-vectors
-A simple program that sums number based on their indexes
+A simple program that sums numbers based on their indexes
